@@ -1,0 +1,12 @@
+# Site settings
+title: BTAL Creative
+email: ben@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a 20 year old artist from Milwaukee. I study Info Tech Management and Graphic Design at University Wisconsin Milwaukee. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "BTALCreative.github.io" # the base hostname & protocol for your site
+twitter_username: bentalatzko
+
+# Build settings
+markdown: kramdown
+permalink: pretty

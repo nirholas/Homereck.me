@@ -6,6 +6,14 @@ permalink: /about/
 
 ## The HomeReckers
 
+{% if icons.soundcloud %}
+<li>
+    <a href="https://soundcloud.com/{{ icons.soundcloud }}">
+        <i class="fa fa-fw fa-soundcloud"></i>
+    </a>
+</li>
+{% endif %}
+
 <img class="3" src="http://i.imgur.com/CR4ZGlb.png" alt=""> <a href="http://soundcloud.com/thehomereckers">Follow us on Soundcloud</a>
 
 <div class="2"><img class="_1579 img" src="https://www.facebook.com/rsrc.php/v3/yX/r/GyTfJtXWpWL.png" alt=""></div><a href="https://www.instagram.com/thehomer3ckers/">Follow us on Instagram - @thehomer3ckers</a>

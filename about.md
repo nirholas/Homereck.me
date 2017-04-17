@@ -4,4 +4,7 @@ title: about
 permalink: /about/
 ---
 
-Homereckers are nuts
+## The HomeReckers
+
+Milwaukee Area (UWM) DJ/Producers | Miho x Mikula ~ MKE and Beyond | <a href="mailto:{{ site.email }}">HomeReckersMKE@gmail.com</a></p>
+ 

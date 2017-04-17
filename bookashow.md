@@ -3,8 +3,13 @@ layout: page
 title: book a show
 permalink: /bookashow/
 ---
-   <ul class="contact-list">
+
+   <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
           <li>{{ site.description }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="mailto:{{ site.email }}">BOOK A SHOW!</a></li>
         </ul>
       </div>
+
+

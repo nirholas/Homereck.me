@@ -6,7 +6,8 @@ permalink: /about/
 
 ## The HomeReckers
 
-<img class="3" src="http://www.iconsdb.com/icons/download/white/soundcloud-24.png" alt=""></div> 
+<div class="3"><img class="_1579 img" src="http://www.iconsdb.com/icons/download/white/soundcloud-24.png" alt=""></div>
+
 <a href="http://soundcloud.com/thehomereckers">Follow us on Soundcloud</a>
 
 <div class="2"><img class="_1579 img" src="https://www.facebook.com/rsrc.php/v3/yX/r/GyTfJtXWpWL.png" alt=""></div>

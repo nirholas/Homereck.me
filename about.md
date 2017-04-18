@@ -8,7 +8,7 @@ permalink: /about/
 
 &nbsp;
 
-We broke a house during our first show, we are The HomeReckers... 
+We broke a house during our first show a.k.a The HomeReckers... 
 
 &nbsp;
 

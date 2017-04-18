@@ -8,7 +8,7 @@
 		$('#main').html('<h1 class="title is-2">Thanks for the feedback!</h1><p>You will now be redirected to my website.');
 
 		setTimeout(function () {
-			window.location.href = 'https://sindresorhus.com';
+			window.location.href = 'https://homereck.me';
 		}, 3000);
 	}
 })();

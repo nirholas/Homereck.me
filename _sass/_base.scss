@@ -13,14 +13,14 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+body  {
+    background: #ffffff;
+    color: #000000;
+    font-family: Georgia, Times, serif;
+    font-size: 14px;
+    line-height: 1.5;
+    padding-top: 5px;
+    visibility: hidden;
 }
 
 

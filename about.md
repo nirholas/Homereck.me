@@ -8,6 +8,10 @@ permalink: /about/
 
 &nbsp;
 
+We broke a house during our first show, we are The HomeReckers... 
+
+Milwaukee Area (UWM) DJ/Producers | Miho x Mikula ~ MKE and Beyond  
+
 
 <img class="3" src="http://i.imgur.com/2anJcnJ.png" alt=""> 
 &nbsp;

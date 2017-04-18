@@ -15,7 +15,7 @@ We broke a house during our first show <b>a.k.a</b> The HomeReckers...
 
 <img class="3" src="http://i.imgur.com/2anJcnJ.png" alt=""> 
 &nbsp;
-<a href="http://soundcloud.com/thehomereckers">Follow us on Soundcloud</a>
+<a href="http://soundcloud.com/thehomereckers">Listen on Soundcloud</a>
 
 &nbsp;
 

@@ -20,5 +20,5 @@ permalink: /about/
 &nbsp;
 
 <img class="1" src="https://www.facebook.com/rsrc.php/v3/yu/r/a9L2wNZai3M.png" alt="">
-&nbsp
+&nbsp;
 <a href="https://www.facebook.com/pg/thehomereckers/?ref=page_internal#">Message us on Facebook</a>

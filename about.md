@@ -13,9 +13,9 @@ permalink: /about/
 
 &nbsp;
 
-<div class="2"><img class="_1579 img" src="https://www.facebook.com/rsrc.php/v3/yX/r/GyTfJtXWpWL.png" alt="">
+<img class="2" src="https://www.facebook.com/rsrc.php/v3/yX/r/GyTfJtXWpWL.png" alt="">
 &nbsp;
-</div><a href="https://www.instagram.com/thehomer3ckers/">Follow us on Instagram - @thehomer3ckers</a>
+<a href="https://www.instagram.com/thehomer3ckers/">Follow us on Instagram - @thehomer3ckers</a>
 
 &nbsp;
 

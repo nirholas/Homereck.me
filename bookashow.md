@@ -3,11 +3,10 @@ layout: page
 title: book a show
 permalink: /bookashow/
 ---
-   <p style="text-align:center"> 
-    ![Picture 1](http://i.imgur.com/MvRUJCt.jpg)
-</p>
+
+![Picture 1](http://i.imgur.com/MvRUJCt.jpg)
   
-  <p style="text-align:center">
+  <p style="text-align:">
     <a href="/feedback">Send us an Email</a> 
 </p>
 

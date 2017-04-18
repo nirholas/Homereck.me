@@ -6,6 +6,8 @@ permalink: /about/
 
 ## The HomeReckers
 
+&nbsp;
+
 
 <img class="3" src="http://i.imgur.com/2anJcnJ.png" alt=""> 
 &nbsp;

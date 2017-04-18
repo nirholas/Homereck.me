@@ -7,7 +7,9 @@ permalink: /bookashow/
  ![Picture 1](http://i.imgur.com/MvRUJCt.jpg)
   
   
-<div style="text-align:center"><a href="/feedback">Send us an Email</a></div>
+  <p style="text-align:center">
+    <a href="/feedback">Send us an Email</a> 
+</p>
 
 
 

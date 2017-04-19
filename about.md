@@ -6,14 +6,14 @@ permalink: /about/
 
 ## The HomeReckers
 
-![Picture 3](http://i.imgur.com/6z5BZ1Z.jpg)
-
 &nbsp;
 
 We broke a house during our first show <b>a.k.a</b> The HomeReckers... 
 
-&nbsp;
 
+![Picture 3](http://i.imgur.com/6z5BZ1Z.jpg)
+
+&nbsp;
 
 <img class="3" src="http://i.imgur.com/2anJcnJ.png" alt=""> 
 &nbsp;

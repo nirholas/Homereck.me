@@ -5,5 +5,5 @@ date:   2017-03-13 15:39:40
 preview: http://i.imgur.com/xEuwN1S.jpg
 ---
 
-![Picture 3](http://i.imgur.com/sjK05wX.jpg)
+![Picture 3](http://i.imgur.com/6z5BZ1Z.jpg)
 

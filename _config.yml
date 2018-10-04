@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Milwaukee Area (UWM) DJ/Producers | Miho x Mikula ~ MKE and Beyond
  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nirholas.github.io" # the base hostname & protocol for your site
+url: "http://homereck.me" # the base hostname & protocol for your site
 twitter_username: homereckers
 
 # Build settings
